@@ -118,9 +118,10 @@ Features:
 
 - Clean and user‑friendly UI
 
-🔗 Live Demo: 
+🔗 Live Demo: [click here](https://eye-diseases-classification.streamlit.app/)
 
-📸 Application Screenshot: ![Application Screenshot](https://github.com/user-attachments/assets/5a713fd3-1688-4942-8689-389174f87f97)
+📸 Application Screenshot: 
+![Application Screenshot](https://github.com/user-attachments/assets/5a713fd3-1688-4942-8689-389174f87f97)
 
 ## 🛠️ Technologies Used
 
